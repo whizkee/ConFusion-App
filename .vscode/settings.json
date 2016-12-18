@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+
+
+
+
+
+
+
+{
+
+    "editor.formatOnSave": true,
+
+    "beautify.onSave": ["js", "css", "html"] // only beautify those that match the js and css beautifiers
+
+}

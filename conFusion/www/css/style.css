@@ -1,0 +1,32 @@
+/* Empty. Add your own CSS if you like */
+
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+p {
+  font-family: "arial", sans-serif;
+}
+
+.spinner svg {
+  width: 19% !important;
+  height: 85px !important;
+}
+
+.popover {
+  height: auto !important;
+}
+
+.popover ion-header-bar {
+  position: relative;
+}
+
+.popover ion-content {
+  top: 0;
+  position: relative;
+}
+
+.popover-inner-content {
+  width: 100%;
+  padding: 5px 20px;
+}
