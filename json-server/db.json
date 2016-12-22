@@ -44,6 +44,18 @@
           "comment": "This is just a test!",
           "author": "Michael Test",
           "date": "2016-12-18T21:06:59.291Z"
+        },
+        {
+          "rating": "4",
+          "comment": "Delish!",
+          "author": "Ashley",
+          "date": "2016-12-18T23:02:51.679Z"
+        },
+        {
+          "rating": "2",
+          "comment": "sdjfskjdf",
+          "author": "Mic",
+          "date": "2016-12-19T00:42:47.270Z"
         }
       ]
     },
